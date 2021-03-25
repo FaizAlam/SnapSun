@@ -1,5 +1,5 @@
 # TimeLapse-Gif-Creator
-Timelapse video of sun using python
+Timelapse video of sun at a particular day using python
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/FaizAlam/TimeLapse-Gif-Creator/blob/main/Timelapse_project.ipynb)
 
 Example [2021-01-03]: 
